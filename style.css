@@ -1,0 +1,28 @@
+.jacket img{
+    height: 400px;
+    width: 95%;
+    background-color: gainsboro;
+    margin: 5px 8px;
+    border-radius: 5%;
+}
+.price{
+    color: rgb(243, 171, 38);
+}
+.align{
+    float: left;
+}
+.button{
+    padding-right: 10px;
+}
+.icon img{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.jacket img:hover{
+    height: 500px;
+}
+.background{
+    background-color: rgb(247, 225, 229);
+}
